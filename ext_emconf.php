@@ -6,10 +6,10 @@
 
 $EM_CONF[$_EXTKEY] = array(
     'title' => 'Cache Interface',
-    'description' => 'Common interfaces for simple caching.',
+    'description' => 'Common interfaces for simple caching psr/simple-cache.',
     'category' => 'misc',
     'shy' => 0,
-    'version' => '0.0.1',
+    'version' => '0.0.2',
     'dependencies' => '',
     'conflicts' => '',
     'priority' => '',

@@ -1,7 +1,7 @@
 {
   "name": "jambagecom/base-cache",
   "type": "typo3-cms-extension",
-  "description": "Common interfaces for simple caching.",
+  "description": "Common interfaces for simple caching by psr/simple-cache.",
   "keywords": [
     "TYPO3",
     "extension",
