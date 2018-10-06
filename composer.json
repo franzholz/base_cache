@@ -1,0 +1,43 @@
+{
+  "name": "jambagecom/base-cache",
+  "type": "typo3-cms-extension",
+  "description": "Common interfaces for simple caching.",
+  "keywords": [
+    "TYPO3",
+    "extension",
+    "parser",
+    "cache",
+    "stylesheet"
+  ],
+  "support": {
+    "issues": "https://github.com/franzholz/base_cache/issues"
+  },
+  "homepage": "https://jambage.com",
+  "authors": [
+    {
+      "name": "Franz Holzinger",
+      "homepage": "https://ttproducts.de"
+    }
+  ],
+  "license": [
+    "GPL-2.0+"
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "typo3/cms-core": ">=6.2.0,<9.99.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Psr\\SimpleCache\\": "Vendor/simple-cache/src/"
+    }
+  },
+  "replace": {
+    "base_cache": "self.version",
+    "typo3-ter/base-cache": "self.version"
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "base_cache"
+    }
+  }
+}
