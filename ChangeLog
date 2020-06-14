@@ -1,3 +1,6 @@
+2020-06-14 Franz Holzinger <franz@ttproducts.de>
+    * Support for TYPO3 9.5 and PHP 7.3
+
 2018-10-08 Franz Holzinger <franz@ttproducts.de>
     * Ignore the last upload comment about CSS parser. 
 
