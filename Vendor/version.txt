@@ -1,4 +1,7 @@
-simple-cache-1.0.1
+simple-cache-3.0.0
+
+https://github.com/php-fig/simple-cache
+
 
 
 
