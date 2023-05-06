@@ -6,7 +6,7 @@ This extension brings the "Common interfaces for simple caching" PHP classes "ps
 
 ## What is the origin
 
-See https://github.com/php-fig/simple-cache/releases/tag/1.0.1
+See https://github.com/php-fig/simple-cache/releases/tag/3.0.0
 
 ## Documentation
 
